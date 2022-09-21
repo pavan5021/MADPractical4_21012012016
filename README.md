@@ -2,20 +2,18 @@
 
 What is Intent? Write down types of Intent and types of Intent Action. Create an application which demonstrates implicit Intent for following features and also create different activities and demonstrate explicit Intent. Use parent theme Theme.Material3.Dark.NoActionBar for Dark theme and Theme.Material3.Light.NoActionBar for Light Theme
 
-![Screenshot 2022-09-21 184444](https://user-images.githubusercontent.com/110770530/191513854-ae86cb2c-c26e-4f23-86c9-32200659cf38.png)
+![Screenshot 2022-09-21 184146](https://user-images.githubusercontent.com/110770530/191514772-48e2c30e-8668-4c3f-98f8-a0ca6f0b33ac.png)
 
-![Screenshot 2022-09-21 184549](https://user-images.githubusercontent.com/110770530/191513863-8cdb994c-5172-4700-861e-e678a3b8fcea.png)
+![Screenshot 2022-09-21 184107](https://user-images.githubusercontent.com/110770530/191514781-58934807-0c8b-475c-955f-8194bd4b1596.png)
 
-![Screenshot 2022-09-21 184107](https://user-images.githubusercontent.com/110770530/191513829-b55b28a7-3576-42d0-834a-825eb73f5e2c.png)
+![browse](https://user-images.githubusercontent.com/110770530/191514829-68ce10ea-d08a-4bcc-a914-c5dba2f21e0c.png)
 
-![Screenshot 2022-09-21 184507](https://user-images.githubusercontent.com/110770530/191513859-6479bf0d-273e-4fef-9e18-d1d47c0698b3.png)
+![contact](https://user-images.githubusercontent.com/110770530/191514925-c4d77b0a-0f8e-4ced-a80a-f0e773569890.png)
 
-![Screenshot 2022-09-21 184146](https://user-images.githubusercontent.com/110770530/191513839-4c3b2251-022e-4408-bd6f-2e67d7a3cbea.png)
+![call log](https://user-images.githubusercontent.com/110770530/191514955-560307eb-a44e-456e-b7bb-b199cb00757f.png)
 
-![Screenshot 2022-09-21 184232](https://user-images.githubusercontent.com/110770530/191513842-6c9f8884-9ce9-4c0f-bad3-f7761f08b281.png)
+![gallery](https://user-images.githubusercontent.com/110770530/191514999-39ce0d5e-7c4a-435c-b8c1-d61ffc2ba590.png)
 
-![Screenshot 2022-09-21 184322](https://user-images.githubusercontent.com/110770530/191513847-f0dd6341-b77b-45ea-93e6-576684b27a31.png)
+![camera](https://user-images.githubusercontent.com/110770530/191515039-6f190263-6dab-4a1e-8469-0ce8f0ab62c4.png)
 
-![Screenshot 2022-09-21 184350](https://user-images.githubusercontent.com/110770530/191513850-16377cc3-945f-4953-943e-8601b6a21824.png)
-
-![Screenshot 2022-09-21 184416](https://user-images.githubusercontent.com/110770530/191513852-dc36746d-dd4d-4ec1-8573-19adfce2326a.png)
+![Alarm](https://user-images.githubusercontent.com/110770530/191515056-cf94c703-5921-4da4-8fac-ad35e9315317.png)
